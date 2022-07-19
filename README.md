@@ -43,3 +43,7 @@ More information [in the documentation](https://mui.com/material-ui/guides/routi
 
 You now have a working example project.
 You can head back to the documentation, continuing browsing it from the [templates](https://mui.com/material-ui/getting-started/templates/) section.
+
+## Resources
+
+Cloned from [@mui/material-ui/examples](https://github.com/mui/material-ui/examples)

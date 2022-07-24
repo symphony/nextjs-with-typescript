@@ -1,9 +1,11 @@
 import Button from '@mui/material/Button';
 
-interface Props {
+type MyPageProps = {
   name?: string;
 };
 
-export default function MyPage(props): JSX.Element<Props> {
-  return <Button variant="contained">Hello World</Button>;
+const MyPage = (props: MyPageProps): JSX.Element => {
+  return (<Button variant='outlined' color='secondary'>Hello Button</Button>);
 };
+
+export default MyPage;
